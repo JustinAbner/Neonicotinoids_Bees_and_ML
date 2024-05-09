@@ -1,1 +1,1 @@
-# Neonicotinoids_Bees_and_ML
+# Utilizing Bee Symptoms to predict Imidacloprid (a neonicotinoid insecticide) Concentrations
